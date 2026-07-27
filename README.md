@@ -46,6 +46,10 @@ own (see the [Taxonomy](https://github.com/psql/tanaki/wiki/Taxonomy) and the
 To evolve a descendant, merge from its parent. To gift a discovery to the
 whole line, PR it into this repo's `core/`.
 
+For a living example, see [**Biscotti Lingonberry**](https://github.com/psql/biscotti):
+a character forked from Tanaki that carries `core/` downstream while growing
+his own identity in `self/`.
+
 ## Embodiment
 
 [**tanaki-prime**](https://github.com/psql/tanaki-prime) is the WIP embodiment
