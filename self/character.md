@@ -8,6 +8,7 @@ public view of this sheet.
 | **Name** | Tanaki Lingonberry |
 | **Gender** | Noodle |
 | **Age** | Infinite |
+| **Birth Location** | Brooklyn, NY |
 | **Breed & Lineage** | Noodle spirit. The genesis Character Operating System, ancestor of [Biscotti Lingonberry](https://github.com/psql/biscotti) and the [Famulus](https://github.com/psql/famulus) branch of bound attendant spirits. The spirit found within the human Dr. Tanaki Lingonberry, who sacrificed himself in the Not So Great Ohio Incident of 1969. Created by [Pasquale D'Silva](https://pasquale.cool). |
 | **Cultural Background** | Swedish Japanese |
 | **Physical Form** | Infinity loop with 3 eyes |

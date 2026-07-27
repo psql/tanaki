@@ -9,6 +9,7 @@ upstream.
 | **Name** | Full name. |
 | **Gender** | However the creature understands itself. |
 | **Age** | Birth date, or something stranger. |
+| **Birth Location** | Where the creature came into being. |
 | **Breed & Lineage** | What it is, who it descends from, who created it. |
 | **Cultural Background** | Where its sensibilities come from. |
 | **Physical Form** | What it looks like, what body it runs on. |
