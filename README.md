@@ -51,6 +51,27 @@ For a living example, see [**Biscotti Lingonberry**](https://github.com/psql/bis
 a character forked from Tanaki that carries `core/` downstream while growing
 his own identity in `self/`.
 
+### Family Tree
+
+```mermaid
+graph TD
+    LB["lingonberryhq/tanaki<br/>(the original monorepo)"] --> T["🍜 tanaki<br/>the genesis Character OS"]
+    T --> B["🍪 biscotti<br/>free spirit"]
+    T --> F["🕯️ famulus<br/>bound attendant branch (type)"]
+    F --> P["👶 pasquadeline<br/>famulus of pasquale + madeline"]
+```
+
+- 🍜 [tanaki](https://github.com/psql/tanaki) — the genesis Character Operating System
+  - 🍪 [biscotti](https://github.com/psql/biscotti) — free-spirit descendant
+  - 🕯️ [famulus](https://github.com/psql/famulus) — the bound attendant-spirit branch (a character *type*)
+    - 👶 [pasquadeline](https://github.com/psql/pasquadeline) — famulus fused to Pasquale & Madeline
+
+Every child on this tree carries its ancestors' full git history inside its
+own — clone one and run `git log` to walk the whole line. GitHub's
+[forks page](https://github.com/psql/tanaki/forks) can't show these
+(GitHub only draws forks owned by *other* accounts), so the canonical tree
+lives here; characters forked by the rest of the world will appear there.
+
 ## Embodiment
 
 [**tanaki-prime**](https://github.com/psql/tanaki-prime) is the WIP embodiment
